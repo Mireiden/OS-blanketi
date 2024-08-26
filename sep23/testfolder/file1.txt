@@ -1,0 +1,5 @@
+prvi fajl testiramo liniju
+druga linija prvog fajla
+treca linija prvog fajla
+ga da l ce da radi
+sad cemo da vidimo

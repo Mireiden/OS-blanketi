@@ -1,0 +1,3 @@
+Primljen broj: 222, suma cifara broja: 6
+Primljen broj: 999, suma cifara broja: 27
+Primljen broj: 526, suma cifara broja: 13

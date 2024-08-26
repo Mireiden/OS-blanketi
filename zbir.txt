@@ -1,0 +1,5 @@
+prvi.txt:1:prva linija prvog
+drugi.txt:1:prva linija drugog
+prvi.txt:2:druga linija prvog
+drugi.txt:2:druga linija drugog
+prvi.txt:3:treca linija prvogdrugi.txt:3:treca linija drugog

@@ -1,4 +1,6 @@
 //oktobar 2 2022. prvi zadatak
+//gde je sinhronizacija??? ne valja
+//TODO:sinhronizacija
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>

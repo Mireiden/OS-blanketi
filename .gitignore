@@ -51,19 +51,9 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-
+# Visual Studio Code
 .vscode/
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-
-# Local History for Visual Studio Code
 .history/
-
-# Built Visual Studio Code Extensions
 *.vsix
 
 # gcc
@@ -72,69 +62,50 @@ dkms.conf
 *.orig
 *.rej
 
+# Temporary files
 *~
 .#*
 *#
 .*.swp
+*.tmp
 
+# Miscellaneous
 *.flt
 *.gmo
 *.info
-*.la
-*.lo
-*.o
-*.pyc
-*.tmp
-*.a
-
 .deps
 .libs
-
 autom4te.cache
 config.cache
-# GCC does not support in-tree builds, do not conceal a stray config.h:
-# config.h
 config.intl
 config.log
 config.status
 libtool
 POTFILES
 *-POTFILES
-
 TAGS
 TAGS.sub
 cscope.out
-
 .local.vimrc
 .lvimrc
-.vscode
-
 .clang-format
 .clang-tidy
 .clangd
 .cache
 compile_commands.json
-
 .gdbinit
 .gdb_history
-
 perf.data
 perf.data.old
-
-# ignore core files, but not java/net/protocol/core/
 core
 !core/
-
 lost+found
-
-# ignore ./contrib/gcc_update output
 LAST_UPDATED
 REVISION
-
 stamp-*
 *.stamp
 
-# ignore in-tree prerequisites
+# In-tree prerequisites
 /mpfr*
 /mpc*
 /gmp*
